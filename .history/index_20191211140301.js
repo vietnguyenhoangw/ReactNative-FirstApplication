@@ -7,4 +7,4 @@ import HelloWorld from './src/components/HelloWorld'
 // import App from './App';
 // import {name as appName} from './app.json';
 
-AppRegistry.registerComponent("hello_world", () => HelloWorld);
+AppRegistry.registerComponent(appName, () => HelloWorld);
